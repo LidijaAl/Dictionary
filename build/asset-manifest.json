@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.58772cb2.css",
+    "main.js": "/static/js/main.d26d5e64.js",
+    "static/media/dictionary.png": "/static/media/dictionary.b8115969f621d31c6f06.png",
+    "static/media/audio.png": "/static/media/audio.bc358dfe726540867801.png",
+    "index.html": "/index.html",
+    "main.58772cb2.css.map": "/static/css/main.58772cb2.css.map",
+    "main.d26d5e64.js.map": "/static/js/main.d26d5e64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58772cb2.css",
+    "static/js/main.d26d5e64.js"
+  ]
+}
